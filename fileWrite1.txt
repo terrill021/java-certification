@@ -1,0 +1,2 @@
+Leo un archivo que esta en la carpeta raiz del proyecto.
+fin
